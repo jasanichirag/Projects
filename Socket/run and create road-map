@@ -1,0 +1,3 @@
+[1] create server.java file/class and create ServerSocket and configuration server.
+[2] and then create client.java file/class and configur socket and port.
+[3] first run server and then client.
